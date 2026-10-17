@@ -1,0 +1,9 @@
+transaction_id,from_person,to_person,amount,transaction_type
+T001,P001,P002,5000,Transfer
+T002,P002,P003,8000,Transfer
+T003,P003,P004,3000,Payment
+T004,P004,P005,12000,Transfer
+T005,P005,P006,7000,Payment
+T006,P006,P007,4500,Transfer
+T007,P007,P008,9000,Payment
+T008,P001,P008,6000,Transfer
